@@ -7,6 +7,8 @@ public class FirstClass {
 		System.out.println("Selam sane");
 		System.out.println("ikinci selam");
 		
+		System.out.println("yeni brancha selam soyle");
+		
 
 	}
 
